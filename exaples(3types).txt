@@ -1,0 +1,31 @@
+C:\Users\adilm\.jdks\openjdk-23.0.1\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.2\lib\idea_rt.jar=62688:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.2\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\adilm\IdeaProjects\javaadil\out\production\javaadil Main
+enter the lenght of password: 6
+add lowercase letters? (yes/no): yes
+add uppercase letters? (yes/no): yes
+add numbers? (yes/no): no
+add symbols? (yes/no): yes
+Generated password: p?!M_;
+
+Process finished with exit code 0
+
+
+C:\Users\adilm\.jdks\openjdk-23.0.1\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.2\lib\idea_rt.jar=62696:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.2\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\adilm\IdeaProjects\javaadil\out\production\javaadil Main
+enter the lenght of password: 10
+add lowercase letters? (yes/no): ooo
+add uppercase letters? (yes/no): oo
+add numbers? (yes/no): oo
+add symbols? (yes/no): oo
+You must select at least one character type.
+
+Process finished with exit code 0
+
+
+C:\Users\adilm\.jdks\openjdk-23.0.1\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.2\lib\idea_rt.jar=62725:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.2\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\adilm\IdeaProjects\javaadil\out\production\javaadil Main
+enter the lenght of password: 10
+add lowercase letters? (yes/no): yes
+add uppercase letters? (yes/no): yes
+add numbers? (yes/no): yes
+add symbols? (yes/no): yes
+Generated password: Qc%(*FfHv;
+
+Process finished with exit code 0
